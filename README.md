@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Maksim 👋
 
-<!--
-**maksimkovalevw/maksimkovalevw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NLP / LLM Engineer** · based in Tbilisi, Georgia (UTC+4) · open to fully remote
 
-Here are some ideas to get you started:
+I build language systems end-to-end — from problem framing to training, serving and monitoring in production. Mostly working on **RAG**, **LLM fine-tuning** (LoRA/QLoRA, SFT, preference optimization), **agentic pipelines** and **retrieval at scale**. I care about latency, cost and measurable impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+`Python` · `PyTorch` · `HuggingFace` (Transformers / PEFT / TRL) · `vLLM` · `LangChain` / `LangGraph` · `FAISS` / `Qdrant` / `pgvector` · `FastAPI` · `Docker` / `Kubernetes`
+
+**LLMs:** Anthropic (Claude), OpenAI, open-weights (Llama, Mistral, Qwen)
+
+📫 Telegram: [@maksimkovalevw](https://t.me/maksimkovalevw) · ✉️ maksim.kovalevw@gmail.com
+
+<sub>Most of my production work lives in private repos — happy to walk through it on a call.</sub>
