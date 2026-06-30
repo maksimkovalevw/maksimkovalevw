@@ -11,4 +11,4 @@ I build language systems end-to-end — from problem framing to training, servin
 
 📫 Telegram: [@maksimkovalevw](https://t.me/maksimkovalevw) · ✉️ maksim.kovalevw@gmail.com
 
-<sub>Most of my production work lives in private repos — happy to walk through it on a call.</sub>
+<sub>Most of my production work lives in private repos transfered from other accounts — happy to walk through it on a call.</sub>
